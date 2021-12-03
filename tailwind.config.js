@@ -15,9 +15,13 @@ module.exports = {
                 light: '#FFA0FD',
                 dark: '#FFE1EA',
             },
-            white: '#FBFCFF',
+            white: '#FFFFFF',
             black: '#001514',
-            gray: '#D0CCD0',
+            gray: {
+                DEFAULT: '#efefef',
+                ligth: '#f9f9f9',
+                dark: '#D0CCD0',
+            },
         },
     },
     variants: {
