@@ -3,12 +3,12 @@ import { FaRegCommentAlt } from 'react-icons/fa';
 import { FiHeart } from 'react-icons/fi';
 import MainCard from '../../../Utilities/MainCard';
 
-const SinglePost = ({ post }) => {
+const SinglePost = ({ post, index }) => {
     const { title, content, author, authorPhoto, publishTime, reactions, banner, tags, comments } =
         post;
-    console.log(authorPhoto);
-    return (
-        <MainCard img={banner}>
+
+    const children = (
+        <>
             <div className="flex items-center">
                 <div>
                     <img src={authorPhoto} className="w-12 h-12" alt="" />
@@ -19,11 +19,11 @@ const SinglePost = ({ post }) => {
             </div>
             <div className="p-5">
                 <h3>{title}</h3>
-                {tags.map((tag, index) => (
+                {tags.map((tag, TagIndex) => (
                     <button
                         type="button"
                         // eslint-disable-next-line react/no-array-index-key
-                        key={index}
+                        key={TagIndex}
                         className="mr-5 my-2 rounded-md text-sm hover:bg-gray   p-2"
                     >
                         # {tag}
@@ -46,7 +46,16 @@ const SinglePost = ({ post }) => {
                     </div>
                 </div>
             </div>
-        </MainCard>
+        </>
+    );
+    return (
+        <>
+            {index === 0 ? (
+                <MainCard img={banner}>{children}</MainCard>
+            ) : (
+                <MainCard>{children}</MainCard>
+            )}
+        </>
     );
 };
 
