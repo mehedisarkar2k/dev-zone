@@ -1,6 +1,4 @@
-## This is not my setup. This setup is copied from <a href="https://github.com/learnwithsumit/think-in-a-react-way">Think in a React way Tutorial Series [ in Bangla ]</a>. I'm just configured some settings as my need.
-
-<br/>
+# Dev Zone
 
 ## My contacts
 
