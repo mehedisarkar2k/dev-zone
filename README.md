@@ -1,5 +1,4 @@
 # Dev Zone
-<<<<<<< HEAD
 
 ## About the project
 
@@ -17,5 +16,3 @@
 - ##### Md. W Emon
 - ##### MD Rownok Jahan
 - ##### Nazifa Mashiat Pushon
-=======
->>>>>>> 910f6e47656fdd7f85eef95bbd58b67594e03cb8
