@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "title": "Animated Profile Card Using HTML CSS & GSAP",
+    "tags": ["javascript", "react", "html", "css"],
+    "content": "Structuring React applications into files and folders is an opinionated topic, because there is no right or wrong way to do it. I decided to share how I have structured my projects lately.",
+    "author": "Mr. Smith",
+    "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+    "publishTime": "11-12-2021",
+    "comments": [
+      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
+      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post"
+    ],
+    "reactions": 7,
+    "banner": "https://res.cloudinary.com/practicaldev/image/fetch/s--ErmzcEw5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oo7cdkit8giav4sm692u.png"
+  },
+  {
+    "id": 2,
+    "title": "Animated Profile Card Using HTML CSS & GSAP",
+    "tags": ["javascript", "react", "html", "css"],
+    "content": "Structuring React applications into files and folders is an opinionated topic, because there is no right or wrong way to do it. I decided to share how I have structured my projects lately.",
+    "author": "Mr. Smith",
+    "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+    "publishTime": "11-12-2021",
+    "comments": [
+      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
+      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post"
+    ],
+    "reactions": 7,
+    "banner": "https://res.cloudinary.com/practicaldev/image/fetch/s--ErmzcEw5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oo7cdkit8giav4sm692u.png"
+  },
+  {
+    "id": 3,
+    "title": "Animated Profile Card Using HTML CSS & GSAP",
+    "tags": ["javascript", "react", "html", "css"],
+    "content": "Structuring React applications into files and folders is an opinionated topic, because there is no right or wrong way to do it. I decided to share how I have structured my projects lately.",
+    "author": "Mr. Smith",
+    "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+    "publishTime": "11-12-2021",
+    "comments": [
+      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
+      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post"
+    ],
+    "reactions": 7,
+    "banner": "https://res.cloudinary.com/practicaldev/image/fetch/s--ErmzcEw5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oo7cdkit8giav4sm692u.png"
+  },
+  {
+    "id": 4,
+    "title": "Animated Profile Card Using HTML CSS & GSAP",
+    "tags": ["javascript", "react", "html", "css"],
+    "content": "Structuring React applications into files and folders is an opinionated topic, because there is no right or wrong way to do it. I decided to share how I have structured my projects lately.",
+    "author": "Mr. Smith",
+    "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+    "publishTime": "11-12-2021",
+    "comments": [
+      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
+      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post"
+    ],
+    "reactions": 7,
+    "banner": "https://res.cloudinary.com/practicaldev/image/fetch/s--ErmzcEw5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oo7cdkit8giav4sm692u.png"
+  },
+  {
+    "id": 5,
+    "title": "Animated Profile Card Using HTML CSS & GSAP",
+    "tags": ["javascript", "react", "html", "css"],
+    "content": "Structuring React applications into files and folders is an opinionated topic, because there is no right or wrong way to do it. I decided to share how I have structured my projects lately.",
+    "author": "Mr. Smith",
+    "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+    "publishTime": "11-12-2021",
+    "comments": [
+      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
+      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post"
+    ],
+    "reactions": 7,
+    "banner": "https://res.cloudinary.com/practicaldev/image/fetch/s--ErmzcEw5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oo7cdkit8giav4sm692u.png"
+  }
+]
