@@ -1,20 +1,10 @@
-import Content from './Pages/Home/Content/Content';
-import LeftNav from './Pages/Home/LeftNav/LeftNav';
-import RightNav from './Pages/Home/RightNav/RightNav';
+import Home from './Pages/Home/Home';
 
 function App() {
     return (
         <div>
-            <div className="my-container">
-                <div>
-                    <LeftNav />
-                </div>
-                <div>
-                    <Content />
-                </div>
-                <div>
-                    <RightNav />
-                </div>
+            <div className="container mx-auto">
+                <Home />
             </div>
         </div>
     );
