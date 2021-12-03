@@ -1,0 +1,77 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+}
+
+@layer components {
+  body {
+    font-family: "Poppins", sans-serif;
+  }
+  h1 {
+    @apply text-3xl md:text-4xl lg:text-5xl font-bold text-dark leading-normal md:leading-loose;
+  }
+  h2 {
+    @apply text-2xl md:text-3xl lg:text-4xl font-semibold text-dark leading-normal md:leading-relaxed;
+  }
+  h3 {
+    @apply text-xl md:text-2xl lg:text-3xl font-semibold text-dark leading-normal;
+  }
+  h4 {
+    @apply text-xl lg:text-2xl font-medium text-dark leading-normal;
+  }
+  p {
+    @apply text-base;
+  }
+  section {
+    @apply py-10;
+  }
+  .btn {
+    @apply px-6 py-3 focus:outline-none;
+  }
+  .btn-primary {
+  }
+  .btn-secondary {
+  }
+  .card {
+  }
+  .card-blog {
+  }
+}
+
+/* custom class */
+.my-container {
+  @apply w-full py-14 mx-auto px-10;
+}
+
+@media (min-width: 576px) {
+  .my-container {
+    max-width: 540px !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .my-container {
+    max-width: 720px !important;
+  }
+}
+@media (min-width: 992px) {
+  .my-container {
+    max-width: 970px !important;
+  }
+}
+@media (min-width: 1200px) {
+  .my-container {
+    max-width: 1170px !important;
+  }
+  .userImg {
+    display: block;
+  }
+}
+@media (min-width: 1400px) {
+  .my-container {
+    max-width: 1320px !important;
+  }
+}
