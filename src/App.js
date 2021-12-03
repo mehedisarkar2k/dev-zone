@@ -1,7 +1,11 @@
+import Home from './Pages/Home/Home';
+
 function App() {
     return (
         <div>
-            <h1>Hello developers</h1>
+            <div className="container mx-auto">
+                <Home />
+            </div>
         </div>
     );
 }
