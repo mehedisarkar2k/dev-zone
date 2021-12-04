@@ -22,6 +22,11 @@ module.exports = {
                 ligth: '#f9f9f9',
                 dark: '#D0CCD0',
             },
+            dark: {
+                DEFAULT: '#090909',
+                light: '#848484',
+                dark: '#212129',
+            },
         },
     },
     variants: {
