@@ -4,8 +4,8 @@ import LeftNav from './LeftNav/LeftNav';
 import RightNav from './RightNav/RightNav';
 
 const Home = () => (
-    <div>
-        <div className="">
+    <div className="container mx-auto">
+        <div>
             <div className="md:grid grid-cols-12 md:gap-2">
                 <div className="md:col-span-2">
                     <LeftNav />
