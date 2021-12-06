@@ -15,8 +15,6 @@ import {
 
 const LeftNav = () => (
     <div className="my-5">
-        <link rel="stylesheet" href="https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css" />
-
         <div className="flex flex-row bg-gray-100">
             <div className="flex flex-col w-full   overflow-hidden">
                 <ul className="flex flex-col py-4">
