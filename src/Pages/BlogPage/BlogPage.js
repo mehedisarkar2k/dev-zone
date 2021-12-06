@@ -1,5 +1,6 @@
 import React from 'react';
 import LeftNavBlog from './LeftNavBlog/LeftNavBlog';
+import Comments from './Commmets/Comment';
 import MainBlogContainer from './MainBlogContainer/MainBlogContainer';
 
 const BlogPage = () => (
@@ -11,11 +12,11 @@ const BlogPage = () => (
                 </div>
                 <div className="md:col-span-8">
                     <MainBlogContainer />
+                    <Comments />
                 </div>
                 <div className="md:col-span-3" />
             </div>
         </div>
     </div>
 );
-
 export default BlogPage;

@@ -8,18 +8,34 @@
     "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
     "publishTime": "11-12-2021",
     "comments": [
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post"
+      {
+        "content": "somthing is really wrong with that peice of code ",
+        "reaction": 7,
+        "author": "Mr. Smith",
+        "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+        "date": "3 Dec"
+      },
+      {
+        "content": "somthing is really wrong with that peice of code ",
+        "reaction": 7,
+        "author": "Mr. Smith",
+        "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+        "date": "3 Dec"
+      },
+      {
+        "content": "somthing is really wrong with that peice of code ",
+        "reaction": 7,
+        "author": "Mr. Smith",
+        "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+        "date": "3 Dec"
+      },
+      {
+        "content": "somthing is really wrong with that peice of code ",
+        "reaction": 7,
+        "author": "Mr. Smith",
+        "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+        "date": "3 Dec"
+      }
     ],
     "reactions": 7,
     "banner": "https://res.cloudinary.com/practicaldev/image/fetch/s--ErmzcEw5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oo7cdkit8giav4sm692u.png"
@@ -33,18 +49,34 @@
     "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
     "publishTime": "11-12-2021",
     "comments": [
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post"
+      {
+        "content": "somthing is really wrong with that peice of code ",
+        "reaction": 7,
+        "author": "Mr. Smith",
+        "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+        "date": "3 Dec"
+      },
+      {
+        "content": "somthing is really wrong with that peice of code ",
+        "reaction": 7,
+        "author": "Mr. Smith",
+        "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+        "date": "3 Dec"
+      },
+      {
+        "content": "somthing is really wrong with that peice of code ",
+        "reaction": 7,
+        "author": "Mr. Smith",
+        "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+        "date": "3 Dec"
+      },
+      {
+        "content": "somthing is really wrong with that peice of code ",
+        "reaction": 7,
+        "author": "Mr. Smith",
+        "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+        "date": "3 Dec"
+      }
     ],
     "reactions": 7,
     "banner": "https://res.cloudinary.com/practicaldev/image/fetch/s--ErmzcEw5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oo7cdkit8giav4sm692u.png"
@@ -58,18 +90,34 @@
     "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
     "publishTime": "11-12-2021",
     "comments": [
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post"
+      {
+        "content": "somthing is really wrong with that peice of code ",
+        "reaction": 7,
+        "author": "Mr. Smith",
+        "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+        "date": "3 Dec"
+      },
+      {
+        "content": "somthing is really wrong with that peice of code ",
+        "reaction": 7,
+        "author": "Mr. Smith",
+        "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+        "date": "3 Dec"
+      },
+      {
+        "content": "somthing is really wrong with that peice of code ",
+        "reaction": 7,
+        "author": "Mr. Smith",
+        "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+        "date": "3 Dec"
+      },
+      {
+        "content": "somthing is really wrong with that peice of code ",
+        "reaction": 7,
+        "author": "Mr. Smith",
+        "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+        "date": "3 Dec"
+      }
     ],
     "reactions": 7,
     "banner": "https://res.cloudinary.com/practicaldev/image/fetch/s--ErmzcEw5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oo7cdkit8giav4sm692u.png"
@@ -83,18 +131,34 @@
     "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
     "publishTime": "11-12-2021",
     "comments": [
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post"
+      {
+        "content": "somthing is really wrong with that peice of code ",
+        "reaction": 7,
+        "author": "Mr. Smith",
+        "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+        "date": "3 Dec"
+      },
+      {
+        "content": "somthing is really wrong with that peice of code ",
+        "reaction": 7,
+        "author": "Mr. Smith",
+        "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+        "date": "3 Dec"
+      },
+      {
+        "content": "somthing is really wrong with that peice of code ",
+        "reaction": 7,
+        "author": "Mr. Smith",
+        "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+        "date": "3 Dec"
+      },
+      {
+        "content": "somthing is really wrong with that peice of code ",
+        "reaction": 7,
+        "author": "Mr. Smith",
+        "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+        "date": "3 Dec"
+      }
     ],
     "reactions": 7,
     "banner": "https://res.cloudinary.com/practicaldev/image/fetch/s--ErmzcEw5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oo7cdkit8giav4sm692u.png"
@@ -108,18 +172,34 @@
     "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
     "publishTime": "11-12-2021",
     "comments": [
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax like this in JS:\n            1[to(6)]   // [1, 2, 3, 4, 5, 6]\n            9[to(5)]   // [9, 8, 7, 6, 5]\n            2[to(8, {step: 2})]   // [2, 4, 6, 8]\n            If you want to know how - take a look at my post",
-      "Not really a one-liner, but it is possible to make a range syntax \n            If you want to know how - take a look at my post"
+      {
+        "content": "somthing is really wrong with that peice of code ",
+        "reaction": 7,
+        "author": "Mr. Smith",
+        "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+        "date": "3 Dec"
+      },
+      {
+        "content": "somthing is really wrong with that peice of code ",
+        "reaction": 7,
+        "author": "Mr. Smith",
+        "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+        "date": "3 Dec"
+      },
+      {
+        "content": "somthing is really wrong with that peice of code ",
+        "reaction": 7,
+        "author": "Mr. Smith",
+        "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+        "date": "3 Dec"
+      },
+      {
+        "content": "somthing is really wrong with that peice of code ",
+        "reaction": 7,
+        "author": "Mr. Smith",
+        "authorPhoto": "https://i.ibb.co/RjCTfG6/beautiful-latin-woman-avatar-character-icon-free-vector-removebg-preview.png",
+        "date": "3 Dec"
+      }
     ],
     "reactions": 7,
     "banner": "https://res.cloudinary.com/practicaldev/image/fetch/s--ErmzcEw5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oo7cdkit8giav4sm692u.png"
