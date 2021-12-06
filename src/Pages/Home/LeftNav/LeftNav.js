@@ -1,17 +1,4 @@
 import React from 'react';
-// Icons
-import { BsFillTagsFill, BsHeartFill, BsMicFill } from 'react-icons/bs';
-import { FaConnectdevelop } from 'react-icons/fa';
-import {
-    FcBriefcase,
-    FcContacts,
-    FcHome,
-    FcIdea,
-    FcList,
-    FcShop,
-    // eslint-disable-next-line prettier/prettier
-    FcVideoFile
-} from 'react-icons/fc';
 
 const LeftNav = () => (
     <div className="my-5">
