@@ -31,7 +31,7 @@ function App() {
                 <Route path="/about" element={<About />} />
                 <Route path="/contact" element={<Contact />} />
                 {/* blog */}
-                <Route path="/blog/:id" element={<BlogPage />} />
+                <Route path="/blog/:title" element={<BlogPage />} />
             </Routes>
         </BrowserRouter>
     );
