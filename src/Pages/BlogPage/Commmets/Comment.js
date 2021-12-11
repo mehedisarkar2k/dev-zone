@@ -4,20 +4,20 @@ import MainCard from '../../Utilities/MainCard';
 import SingleComment from '../SingleCommmet/SingleComment';
 
 const Comment = () => {
-    const { id } = useParams();
+    const { title } = useParams();
     // const [filteredComment, setfilterComment] = useState([]);
     const [comments, setComments] = useState([]);
     useEffect(() => {
         fetch('/post.json')
             .then((res) => res.json())
             .then((data) => {
-                console.log(id);
+                // console.log(id);
 
-                const filteredPost = data.find((d) => d.id === parseInt(id, 10));
+                const filteredPost = data.find((d) => d.title === title);
                 console.log(filteredPost);
                 setComments(filteredPost.comments);
             });
-    }, [id]);
+    }, [title]);
 
     return (
         <MainCard>

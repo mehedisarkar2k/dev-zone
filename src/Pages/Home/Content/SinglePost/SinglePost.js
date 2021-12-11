@@ -5,18 +5,8 @@ import { NavLink } from 'react-router-dom';
 import MainCard from '../../../Utilities/MainCard';
 
 const SinglePost = ({ post, index }) => {
-    const {
-        title,
-        content,
-        author,
-        authorPhoto,
-        publishTime,
-        reactions,
-        banner,
-        tags,
-        comments,
-        id,
-    } = post;
+    const { title, content, author, authorPhoto, publishTime, reactions, banner, tags, comments } =
+        post;
 
     const children = (
         <>
@@ -29,7 +19,7 @@ const SinglePost = ({ post, index }) => {
                 </div>
             </div>
             <div className="p-5">
-                <NavLink className="text-3xl block" to={`blog/${id}`}>
+                <NavLink className="text-3xl block" to={`blog/${title}`}>
                     {title}
                 </NavLink>
                 {tags.map((tag, TagIndex) => (
